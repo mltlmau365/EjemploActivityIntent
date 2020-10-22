@@ -1,8 +1,6 @@
 # EjemploFormularioIntent
  
-Ejemplo en "Adroid Studio 4", 
--Activity, 
--Intent
+## Ejemplo en "Adroid Studio 4",   Activity,  Intent.
 
 
 ## **1.Pantalla inicial**
