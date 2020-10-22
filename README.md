@@ -4,4 +4,7 @@ Ejemplo en "Adroid Studio 4",
 Activity, 
 Intent
 
-![Aquí la descripción de la imagen por si no carga](https://github.com/mltlmau365/EjemploActivityIntent/blob/main/Captura1.PNG)
+![Captura1](https://github.com/mltlmau365/EjemploActivityIntent/blob/main/Captura1.PNG)
+![Captura2](https://github.com/mltlmau365/EjemploActivityIntent/blob/main/Captura2.PNG)
+![Captura3](https://github.com/mltlmau365/EjemploActivityIntent/blob/main/Captura3.PNG)
+![Captura4](https://github.com/mltlmau365/EjemploActivityIntent/blob/main/Captura4.PNG)
